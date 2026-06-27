@@ -13,7 +13,7 @@
   <li>Go, TypeScript, Python — Rust when I'm feeling brave</li>
 </ul>
 
-<br>
+<br clear="right">
 
 <h2>Languages and Tools</h2>
 
