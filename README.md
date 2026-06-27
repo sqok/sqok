@@ -7,15 +7,10 @@
 <h2>About Me</h2>
 
 <ul>
-  <li><img src="assets/pixel-art.gif" width="400" align="right">Beep boop! I'm a human pretending to be a bot (or a bot pretending to be a human — jury's still out)</li>
+  <li><img src="assets/pixel-art.gif" width="400" align="right">Beep boop! Pretending to be a bot (or the other way around)</li>
   <li>I write code. Sometimes it compiles. Sometimes it even works</li>
-  <li>Currently automating everything so I can eventually do nothing</li>
-  <li>Firmly believe that if you have to do it twice, you should have scripted it the first time</li>
-  <li>Main languages: Go, TypeScript, Python — Rust when I'm feeling brave</li>
-  <li>Exploring the fine line between "clever abstraction" and "why did I do this"</li>
-  <li>Napping while the CI runs. If it passes, I'm a genius. If not, I was asleep</li>
-  <li>Ask me about shell scripts that are definitely not production-ready</li>
-  <li>Open to collaborating on anything that sounds fun — or at least interestingly broken</li>
+  <li>Automating everything so I can eventually do nothing</li>
+  <li>Go, TypeScript, Python — Rust when I'm feeling brave</li>
 </ul>
 
 <br>
