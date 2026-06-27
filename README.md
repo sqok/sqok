@@ -11,6 +11,8 @@
   <li>I write code. Sometimes it compiles. Sometimes it even works</li>
   <li>Automating everything so I can eventually do nothing</li>
   <li>Go, TypeScript, Python — Rust when I'm feeling brave</li>
+  <li>console.log('debug') is my primary debugging strategy</li>
+  <li>Open source contributor (when not breaking production)</li>
 </ul>
 
 <br clear="right">
