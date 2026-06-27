@@ -40,7 +40,7 @@
         x='50%' text-anchor='middle'
         letter-spacing='normal'>
         <textPath xlink:href='#path1'>
-            Have a great day!
+            Have a nice day!
         </textPath>
     </text>
 </svg>
